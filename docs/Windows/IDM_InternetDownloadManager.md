@@ -2,7 +2,7 @@
 
 2.版本:6.40.Build2
 
-3.来源:BT
+3.来源:[BT](https://telegra.ph/IDMv640Build2-12-15)
 
 4.支持平台:Windows
 备注:Android有个类似的软件1DM，是"数字1"DM 不是i或者大写I，以前叫IDM，现在改叫1DM，它们不是同一家公司的
