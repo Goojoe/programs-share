@@ -6,7 +6,7 @@
     - [IDM | Internet Download Manager](Windows\IDM_InternetDownloadManager.md)
     - [Microsoft Office](Windows\MicrosoftOffice.md)
     - [NeatReder](Windows\NeatReder.md)
-    - [搜狗输入法 | sougoushurufa](Windows\sougoushurufa(搜狗输入法).md)
+    - [搜狗输入法 | sougoushurufa](Windows\sougoushurufa(搜狗输入法.).md)
     - [Fences](Windows\Fences.md)
     - [软碟通 | UltraISO](Windows\UltraISO(软碟通).md)
 - Linux
