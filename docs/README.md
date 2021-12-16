@@ -60,6 +60,6 @@
 
 **交流群:** [GoojoeChat](https://t.me/GoojoeChat) https://t.me/GoojoeChat
 
-**指正错误:**欢迎指正一些错误，比如支持平台还有其他的等等
+**指正错误**:欢迎指正一些错误，比如支持平台还有其他的等等
 
 **提建议:** [**私聊咕咕乔**](https://t.me/Goojoe) https://t.me/Goojoe

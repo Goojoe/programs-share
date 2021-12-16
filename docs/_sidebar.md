@@ -1,7 +1,8 @@
 - [介绍](README.md)
 - Android
-    - [搜狗输入法](Windows\搜狗输入法.md)
 - Windows
+    - [搜狗输入法](Windows\搜狗输入法(sougoushurufa).md)
+    - [Fences](Windows\Stardock_Fences.md)
 - Linux
 - Web
 - 更新日志
