@@ -32,4 +32,4 @@ UltraISO 独有的智能化ISO文件格式分析器，支持27种常见光盘映
 
 #Windows
 
-8.[下载](https://t.me/GoojoeShare/13)
+8.[>>下载](https://t.me/GoojoeShare/13)

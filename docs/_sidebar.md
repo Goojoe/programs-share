@@ -1,8 +1,11 @@
 - [介绍](README.md)
 - Android
 - Windows
-    - [搜狗输入法](Windows\搜狗输入法(sougoushurufa).md)
-    - [Fences](Windows\Stardock_Fences.md)
+    - [IDM | Internet Download Manager](Windows\IDM_InternetDownloadManager.md)
+    - [NeatReder](Windows\NeatReder.md)
+    - [搜狗输入法 | sougoushurufa](Windows\sougoushurufa(搜狗输入法).md)
+    - [Fences](Windows\Fences.md)
+    - [软碟通 | UltraISO](Windows\UltraISO.md)
 - Linux
 - Web
 - 更新日志
