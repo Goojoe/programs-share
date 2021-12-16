@@ -9,5 +9,6 @@
     - [软碟通 | UltraISO](Windows\UltraISO(软碟通).md)
 - Linux
 - Web
-- [更新日志](Update\2021.md)
-    - [2021](Update\2021.md)
+- 更新日志
+    - [2021年](Update\2021.md)
+
