@@ -21,16 +21,27 @@ Retail（零售版也称消费者版，32和64位共用安装包，要转换才�
 微软办公软件套件Microsoft Office LTSC 2021 专业增强版2021年10月批量许可版更新推送！Office2021正式版和Windows11系统同时于2021年10月份正式推出，Office LTSC 2021相比 Office2019正式版变化不太，最主要强化了LOGO设计趋势，新版把棱角改成了圆角风格，企业辨识度更高；新版支持夜间模式、无障碍优化、Excel的动态数组、XLOOKUP等功能，套件内不再捆绑Skype，而是换成了Teams工具
 
 Microsoft Office LTSC 2021 Professional Plus包含
+
 ├—Microsoft Word 2021
+
 ├—Microsoft Excel 2021
+
 ├—Microsoft PowerPoint 2021
+
 ├—Microsoft Access 2021
+
 ├—Microsoft Project 2021
+
 ├—Microsoft Visio 2021
+
 ├—Microsoft Outlook 2021
+
 ├—Microsoft Publisher 2021
+
 ├—Microsoft OneNote 2021
+
 ├—Teams for Business 2021
+
 ├—OneDrive for business 2021
 
 6.评论:翻译可用,大声朗读不可用,没有听写
