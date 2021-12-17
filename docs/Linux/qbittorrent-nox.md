@@ -4,7 +4,7 @@
 
 3.来源:[island](http://www.island42.net/rpms/cen77/qbittorrent.html)(好像挂掉了)
 
-4.支持平台:Linux
+4.支持平台:Linux(Centos7)
 
 5.介绍:
 
