@@ -4,7 +4,7 @@
 
 3.来源:[官方github](https://github.com/rclone/rclone/releases)
 
-4.支持平台:[ Linux](https://wanweibaike.net/wiki-Linux), [Windows](https://wanweibaike.net/wiki-Microsoft_Windows), [MacOS](https://wanweibaike.net/wiki-MacOS), [FreeBSD](https://wanweibaike.net/wiki-FreeBSD), [NetBSD](https://wanweibaike.net/wiki-NetBSD), [OpenBSD](https://wanweibaike.net/wiki-OpenBSD),Solaris
+4.支持平台:[Linux](https://wanweibaike.net/wiki-Linux)(此文件), [Windows](https://wanweibaike.net/wiki-Microsoft_Windows), [MacOS](https://wanweibaike.net/wiki-MacOS), [FreeBSD](https://wanweibaike.net/wiki-FreeBSD), [NetBSD](https://wanweibaike.net/wiki-NetBSD), [OpenBSD](https://wanweibaike.net/wiki-OpenBSD),Solaris
 
 5.介绍:**Rclone**是一个[开源](https://wanweibaike.net/wiki-开源)、[多线程](https://wanweibaike.net/wiki-多线程)、[命令行界面](https://wanweibaike.net/wiki-命令行界面)的计算机程序，可用于管理[云存储](https://wanweibaike.net/wiki-云存储)。其功能包括[档案同步](https://wanweibaike.net/wiki-檔案同步)、[文件传输](https://wanweibaike.net/wiki-文件傳輸)、[加密](https://wanweibaike.net/wiki-加密)、[缓存](https://wanweibaike.net/wiki-缓存)和[挂载](https://wanweibaike.net/wiki-挂载)。rclone共支持包括[Amazon S3](https://wanweibaike.net/wiki-Amazon_S3)和[Google 云端硬盘](https://wanweibaike.net/wiki-Google_雲端硬碟)在内的五十多种云存储服务。
 
