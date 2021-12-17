@@ -11,7 +11,7 @@
     - [软碟通 | UltraISO](Windows\UltraISO(软碟通).md)
 - Linux
     - [rclone](Linux\rclone.md)
-    - [qbittorrent-nox](D:\D\flie\code\project\docsify\prograLinux\qbittorrent-nox.md)
+    - [qbittorrent-nox](Linux\qbittorrent-nox.md)
     
 - Web
 - 更新日志
