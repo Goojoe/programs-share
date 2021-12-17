@@ -54,3 +54,6 @@ Microsoft Office LTSC 2021 Professional Plus包含
 #Windows
 
 8.[>>下载](https://t.me/GoojoeShare/39)
+
+9.SHA256:
+3DA78C8CB9F61275A9493910FB028776B36C480756DF79D74949C7AAA9336264
