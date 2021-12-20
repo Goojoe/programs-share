@@ -2,9 +2,9 @@
 
 2.版本:2.0
 
-3.来源:吾爱论坛
+3.来源:[吾爱论坛](https://www.52pojie.cn/thread-1478639-1-1.html)
 
-蓝奏云
+[蓝奏云](https://hzgzs.lanzoui.com/s/yasuopj)
 
 4.支持平台:Windows
 
@@ -16,7 +16,8 @@
 
 7.标签:#ArchivePasswordTestToolGUI #字典破解 #压缩包工具 #工具
 
-8.>>下载
+8.[>>下载](https://t.me/GoojoeShare/50)
 
 9.SHA256:
 9ABC1D26F749A3A521E2646E88D30BF3FF11ABB3155378E7D1EA0FA51C904494
+
