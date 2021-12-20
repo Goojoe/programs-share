@@ -4,7 +4,7 @@
 
 3.来源:[island](http://www.island42.net/rpms/cen77/qbittorrent.html)(好像挂掉了)
 
-4.支持平台:Linux(Centos7)
+4.支持平台:Linux(Centos7) Windows
 
 5.介绍:
 
@@ -35,9 +35,9 @@ yum 可以自动补全缺失的软件包还可以用下面的命令安装
 sudo yum install libtorrent-rasterbar-1.2.3-1.el7.x86_64.rpm qbittorrent-4.2.1-1.el7.x86_64.rpm
 ````
 
-8.标签:#qbittorrentnox #qbittorrent #nox
+8.标签:#qbittorrentnox #qbittorrent #nox #磁力下载
 
-#Linux
+#Linux #Windows
 
 9.[>>下载](https://t.me/GoojoeShare/44)
 
