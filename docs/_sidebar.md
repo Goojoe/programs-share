@@ -1,8 +1,11 @@
 - [介绍](README.md)
 - Android
+    - [百度网盘青春版](Android\百度网盘青春版.md)
     - [ES文件管理器 | ES文件浏览器 | ES File Explorer File Manager](Android\ES文件管理器_ES文件浏览器_ESFileExplorerFileManager.md)
     - [FE文件管理器 | FE File Explorer](Android\FE文件管理器_FEFileExplorer.md)
+
 - Windows
+    - [typora](docs\Windows\typora.md)
     - [4kvideodownloader](Windows\4kvideodownloader.md)
     - [Notepad2](Windows\Notepad2.md)
     - [qbittorrentee | qbittorrent增强版](Windows\qbittorrentee.md)
