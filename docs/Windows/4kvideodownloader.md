@@ -1,6 +1,6 @@
 1.软件名:4kvideodownloader
 
-2.版本:v4.19.1.4680x64
+2.版本:4.19.1.4680x64
 
 3.来源:[443down](https://www.423down.com/10118.html)
 
