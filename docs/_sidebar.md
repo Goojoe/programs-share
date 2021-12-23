@@ -5,7 +5,7 @@
     - [FE文件管理器 | FE File Explorer](Android\FE文件管理器_FEFileExplorer.md)
 
 - Windows
-    - [typora](docs\Windows\typora.md)
+    - [typora](Windows\typora.md)
     - [4kvideodownloader](Windows\4kvideodownloader.md)
     - [Notepad2](Windows\Notepad2.md)
     - [qbittorrentee | qbittorrent增强版](Windows\qbittorrentee.md)
