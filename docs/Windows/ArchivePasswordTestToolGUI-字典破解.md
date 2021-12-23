@@ -16,6 +16,8 @@
 
 7.标签:#ArchivePasswordTestToolGUI #字典破解 #压缩包工具 #工具
 
+#Windows
+
 8.[>>下载](https://t.me/GoojoeShare/50)
 
 9.SHA256:
