@@ -3,8 +3,14 @@
     - [百度网盘青春版](Android\百度网盘青春版.md)
     - [ES文件管理器 | ES文件浏览器 | ES File Explorer File Manager](Android\ES文件管理器_ES文件浏览器_ESFileExplorerFileManager.md)
     - [FE文件管理器 | FE File Explorer](Android\FE文件管理器_FEFileExplorer.md)
-
 - Windows
+    - [轻启动](Android\轻启动.md)
+    - [ADM](Android\ADM.md)
+    - [FolderSync](Android\FolderSync.md)
+    - [qBittorrentRemote](Android\qBittorrentRemote.md)
+    - [SAI](Android\SAI.md)
+    - [Speedtest](Android\Speedtest.md)
+    - [ScreenToGif](Windows\ScreenToGif.md)
     - [typora](Windows\typora.md)
     - [4kvideodownloader](Windows\4kvideodownloader.md)
     - [Notepad2](Windows\Notepad2.md)
